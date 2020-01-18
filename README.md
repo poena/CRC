@@ -1,2 +1,2 @@
 # CRC
-Some knowlodge about CRC.
+Some knowledge about CRC.
